@@ -1,0 +1,5 @@
+baseURL = "https://rozemarijn-hilhorst.github.io/"
+languageCode = "en-us"
+title = "Portfolio"
+publishDir = "docs"
+theme = "hugo-creative-portfolio-theme"
